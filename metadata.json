@@ -1,0 +1,5 @@
+{
+  "name": "Yahtzee Scoreboard",
+  "description": "A mobile-optimized Yahtzee scoreboard with automatic calculations and rule integration.",
+  "requestFramePermissions": []
+}
